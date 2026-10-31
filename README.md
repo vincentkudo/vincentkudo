@@ -45,7 +45,7 @@ gift stock rules, Excel + KPI flows, and production deploy (Docker, Nginx, GitHu
 | --- | --- | --- |
 | [Cinema_BE](https://github.com/vincentkudo/Cinema_BE) · [demo](https://cinema-star-ten.vercel.app) | Spring Boot · Envoy · Redis · Kafka · gRPC | Cinema booking microservices. Envoy gateway with ext_authz. Checkout uses Saga + Outbox so a failed payment does not keep the seat or charge twice. |
 | [Roomlink_BE](https://github.com/vincentkudo/Roomlink_BE) · [Roomlink_FE](https://github.com/vincentkudo/Roomlink_FE) · [demo](https://room-link-sigma.vercel.app/) | Node.js · React · SQL | Dorm booking for students and admins: registration, transfer, bills, MoMo / VNPay, vehicle and health flows. |
-| [CampusSocial_BE](https://github.com/vincentkudo/CampusSocial_BE) · [FE](https://github.com/vincentkudo/CampusSocial_FE) · [Admin](https://github.com/vincentkudo/CampusSocial_ADMIN) | Express · React · Next.js · Redis · Elasticsearch | Campus social network: auth, posts, search, and real-time chat (Socket.IO). |
+| [CampusSocial_BE](https://github.com/vincentkudo/CampusSocial_BE) · [FE](https://github.com/vincentkudo/CampusSocial_FE) · [Admin](https://github.com/vincentkudo/CampusSocial_ADMIN) · [demo](https://ccnpmm-project-fe.vercel.app) | Express · React · Next.js · Redis · Elasticsearch | Campus social network: auth, posts, search, and real-time chat (Socket.IO). |
 
 ## Stack
 
