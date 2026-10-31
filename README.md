@@ -27,6 +27,8 @@ TOEIC 770
 <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC" />
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
 
 </div>
 
@@ -52,6 +54,7 @@ gift stock rules, Excel + KPI flows, and production deploy (Docker, Nginx, GitHu
 - **Languages:** Java 17 / 21, JavaScript, TypeScript, C#
 - **Frontend:** React, Next.js
 - **Backend:** Spring Boot, Spring Security, JPA / Hibernate, REST, JWT, gRPC, microservices
+- **Realtime:** WebRTC (getUserMedia, RTCPeerConnection, STUN), Socket.IO signaling
 - **Data:** SQL Server, SQL, NoSQL, Redis, Elasticsearch
 - **Messaging:** RabbitMQ, Kafka
 - **Cloud / DevOps:** AWS (EC2, S3), Docker, Nginx, Envoy, Linux, GitHub Actions
